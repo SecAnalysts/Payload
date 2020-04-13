@@ -4,5 +4,8 @@ saya mencoba membuat dari berbagai sumber untuk dijadikan 1 payload sehingga mud
 semoga bermanfaat untuk kebaikan dalam dunia internet
 
 
-contact email :seakerdioz@gmail.com
-https://www.youtube.com/channel/UC6LGAkkPZtvNz9DqXu7hOUw
+contact email :seakerdioz@gmail.com <br><br>
+youtube :
+https://www.youtube.com/channel/UC6LGAkkPZtvNz9DqXu7hOUw <br><br>
+Writeup Cyber (WRC)<br>
+https://www.writeupcyber.com/
