@@ -4,3 +4,4 @@ a<u title='<noscript>"><img src onerror=alert(1)></noscript>'>b
 <!--{cke_protected} --!> <img src onerror=alert(1)>-->
 <!- - ><img title="--><svg%0Aonmouseover=alert(document.domain)>"onmouseover=alert(1)>+bad=true"<!- - >
 <img/title="a-s"//</noscript><img/svg/title/src=a" <" onauxclick=confirm "XSS bad=true>
+#!?<notitle><!- -><img/title="<"oNmouSeoVer=alert(1)>ok
